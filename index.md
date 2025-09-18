@@ -77,3 +77,10 @@ layout: default
 
 　　**最后一个小小的个人感悟**：在佛得角，网络信号就像岛上的天气，总体晴朗，但偶尔也会飘来一朵小小的、遮住信号的云。放平心态，享受偶尔的“离线”状态，或许能让你更专注于眼前的美景和身边的人。毕竟，来这片“大西洋上的明珠”，不就是为了暂时逃离些什么吗？
 　　<<<END_ARTICLE
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Cape Verde eSIM/流量卡价格与覆盖](https://azpetavircava.github.io/cape-verde-data-plans)
